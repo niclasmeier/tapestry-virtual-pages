@@ -1,0 +1,7 @@
+<html t:type="layout" title="About virtual-page-prototype"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>About virtual-page-prototype application ...</p>
+
+</html>
