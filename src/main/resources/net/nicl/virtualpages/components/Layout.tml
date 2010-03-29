@@ -31,7 +31,7 @@ Description: A Web 2.0 design with fluid width suitable for blogs and small webs
                         <t:pagelink page="prop:pageName">${pageName}</t:pagelink>
                     </li>
                     <li class="${prop:classForPageName}">
-                        <a href="/about">About</a>
+                        <a href="/About">About</a>
                     </li>
                 </ul>
             </div>
